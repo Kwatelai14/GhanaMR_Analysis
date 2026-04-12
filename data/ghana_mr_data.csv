@@ -1,0 +1,141 @@
+Region,Year,MR_Coverage_Pct,Measles_Cases,Rubella_Cases,Total_Cases,Doses_Administered_000,Zone
+Ashanti,2010,78,320,145,465,850,Southern
+Ashanti,2011,80,285,130,415,880,Southern
+Ashanti,2012,82,260,115,375,910,Southern
+Ashanti,2013,84,230,100,330,940,Southern
+Ashanti,2014,85,190,85,275,970,Southern
+Ashanti,2015,87,150,70,220,1005,Southern
+Ashanti,2016,88,120,58,178,1030,Southern
+Ashanti,2017,90,90,44,134,1060,Southern
+Ashanti,2018,91,65,33,98,1085,Southern
+Ashanti,2019,92,45,23,68,1110,Southern
+Ashanti,2020,92,38,18,56,1115,Southern
+Ashanti,2021,93,30,14,44,1120,Southern
+Ashanti,2022,94,22,10,32,1130,Southern
+Ashanti,2023,95,15,7,22,1140,Southern
+Brong-Ahafo,2010,72,180,88,268,420,Southern
+Brong-Ahafo,2011,74,165,80,245,435,Southern
+Brong-Ahafo,2012,76,145,72,217,450,Southern
+Brong-Ahafo,2013,78,130,64,194,468,Southern
+Brong-Ahafo,2014,80,110,55,165,483,Southern
+Brong-Ahafo,2015,82,90,46,136,500,Southern
+Brong-Ahafo,2016,83,75,38,113,515,Southern
+Brong-Ahafo,2017,85,55,29,84,530,Southern
+Brong-Ahafo,2018,86,42,22,64,544,Southern
+Brong-Ahafo,2019,87,30,15,45,558,Southern
+Brong-Ahafo,2020,88,25,12,37,565,Southern
+Brong-Ahafo,2021,89,20,10,30,572,Southern
+Brong-Ahafo,2022,90,15,7,22,580,Southern
+Brong-Ahafo,2023,91,10,5,15,590,Southern
+Central,2010,75,200,95,295,460,Southern
+Central,2011,77,180,86,266,477,Southern
+Central,2012,79,160,77,237,495,Southern
+Central,2013,81,140,68,208,514,Southern
+Central,2014,82,120,58,178,530,Southern
+Central,2015,84,100,48,148,549,Southern
+Central,2016,85,80,39,119,565,Southern
+Central,2017,87,60,30,90,583,Southern
+Central,2018,88,45,22,67,598,Southern
+Central,2019,89,32,16,48,614,Southern
+Central,2020,89,27,13,40,620,Southern
+Central,2021,90,22,10,32,628,Southern
+Central,2022,91,17,8,25,636,Southern
+Central,2023,92,12,5,17,645,Southern
+Eastern,2010,76,210,100,310,490,Southern
+Eastern,2011,78,190,91,281,508,Southern
+Eastern,2012,80,170,81,251,527,Southern
+Eastern,2013,82,150,72,222,547,Southern
+Eastern,2014,83,125,61,186,564,Southern
+Eastern,2015,85,100,51,151,585,Southern
+Eastern,2016,86,82,41,123,602,Southern
+Eastern,2017,88,62,31,93,622,Southern
+Eastern,2018,89,47,23,70,638,Southern
+Eastern,2019,90,33,17,50,655,Southern
+Eastern,2020,90,28,14,42,662,Southern
+Eastern,2021,91,23,11,34,671,Southern
+Eastern,2022,92,18,8,26,680,Southern
+Eastern,2023,93,13,6,19,690,Southern
+Greater Accra,2010,85,280,130,410,960,Southern
+Greater Accra,2011,86,250,117,367,988,Southern
+Greater Accra,2012,87,220,104,324,1018,Southern
+Greater Accra,2013,88,190,91,281,1050,Southern
+Greater Accra,2014,89,160,77,237,1080,Southern
+Greater Accra,2015,90,130,63,193,1113,Southern
+Greater Accra,2016,91,105,51,156,1145,Southern
+Greater Accra,2017,92,80,39,119,1178,Southern
+Greater Accra,2018,93,60,29,89,1210,Southern
+Greater Accra,2019,94,40,20,60,1243,Southern
+Greater Accra,2020,94,33,16,49,1258,Southern
+Greater Accra,2021,95,26,13,39,1274,Southern
+Greater Accra,2022,96,19,9,28,1290,Southern
+Greater Accra,2023,96,13,6,19,1308,Southern
+Northern,2010,55,420,198,618,310,Northern
+Northern,2011,57,395,183,578,323,Northern
+Northern,2012,60,360,167,527,338,Northern
+Northern,2013,62,330,151,481,353,Northern
+Northern,2014,65,295,134,429,370,Northern
+Northern,2015,67,260,117,377,387,Northern
+Northern,2016,70,225,100,325,405,Northern
+Northern,2017,72,190,84,274,422,Northern
+Northern,2018,74,160,69,229,440,Northern
+Northern,2019,76,130,55,185,458,Northern
+Northern,2020,78,110,45,155,468,Northern
+Northern,2021,80,88,36,124,479,Northern
+Northern,2022,82,65,27,92,490,Northern
+Northern,2023,84,45,18,63,502,Northern
+Upper East,2010,50,350,165,515,185,Northern
+Upper East,2011,53,325,152,477,193,Northern
+Upper East,2012,56,295,138,433,202,Northern
+Upper East,2013,59,265,124,389,212,Northern
+Upper East,2014,62,235,110,345,222,Northern
+Upper East,2015,65,205,95,300,233,Northern
+Upper East,2016,68,175,81,256,244,Northern
+Upper East,2017,70,148,68,216,255,Northern
+Upper East,2018,72,122,56,178,267,Northern
+Upper East,2019,74,98,44,142,279,Northern
+Upper East,2020,76,80,36,116,286,Northern
+Upper East,2021,78,64,29,93,294,Northern
+Upper East,2022,80,48,22,70,302,Northern
+Upper East,2023,82,33,15,48,311,Northern
+Upper West,2010,48,290,136,426,140,Northern
+Upper West,2011,51,268,125,393,146,Northern
+Upper West,2012,54,243,114,357,153,Northern
+Upper West,2013,57,218,102,320,160,Northern
+Upper West,2014,60,194,90,284,168,Northern
+Upper West,2015,63,170,79,249,176,Northern
+Upper West,2016,66,146,67,213,185,Northern
+Upper West,2017,68,124,57,181,194,Northern
+Upper West,2018,70,103,47,150,204,Northern
+Upper West,2019,72,83,37,120,214,Northern
+Upper West,2020,74,68,30,98,220,Northern
+Upper West,2021,76,54,24,78,227,Northern
+Upper West,2022,78,41,18,59,234,Northern
+Upper West,2023,80,28,12,40,242,Northern
+Volta,2010,70,195,92,287,380,Southern
+Volta,2011,72,175,83,258,394,Southern
+Volta,2012,74,158,74,232,410,Southern
+Volta,2013,76,140,66,206,426,Southern
+Volta,2014,78,118,56,174,441,Southern
+Volta,2015,80,97,46,143,459,Southern
+Volta,2016,81,79,37,116,474,Southern
+Volta,2017,83,60,29,89,492,Southern
+Volta,2018,84,45,21,66,506,Southern
+Volta,2019,85,32,15,47,521,Southern
+Volta,2020,86,27,12,39,528,Southern
+Volta,2021,87,22,9,31,536,Southern
+Volta,2022,88,17,7,24,544,Southern
+Volta,2023,89,11,5,16,554,Southern
+Western,2010,74,215,101,316,440,Southern
+Western,2011,76,193,91,284,457,Southern
+Western,2012,78,173,82,255,475,Southern
+Western,2013,80,153,72,225,494,Southern
+Western,2014,81,129,61,190,511,Southern
+Western,2015,83,106,50,156,531,Southern
+Western,2016,84,86,41,127,549,Southern
+Western,2017,86,65,31,96,569,Southern
+Western,2018,87,49,23,72,585,Southern
+Western,2019,88,35,16,51,603,Southern
+Western,2020,89,29,13,42,611,Southern
+Western,2021,90,23,10,33,620,Southern
+Western,2022,91,18,7,25,629,Southern
+Western,2023,92,12,5,17,640,Southern
